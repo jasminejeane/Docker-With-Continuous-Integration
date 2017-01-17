@@ -2,11 +2,11 @@
 #Primary Purpose of the application
 The purpose of this repository was to deploy this ready made application using docker
 the link for the success deployment is:
-** http://docker-continuous-integration-1.06def74c.cont.dockerapp.io/**
+http://docker-continuous-integration-1.06def74c.cont.dockerapp.io/
 
 
-# Test app for bTreePress course on Continous Integration with Docker
-This is a quick  node.js appfor the purposes of demonstrating a basic CI/CD workflow with Docker Hub for How To Use Docker With Continous Integration To Build A DevOps Automated Workflow .
+# Test app for bTreePress course on Continuous Integration with Docker
+This is a quick  node.js app for the purposes of demonstrating a basic CI/CD workflow with Docker Hub for How To Use Docker With Continuous Integration To Build A DevOps Automated Workflow .
 This Project Is Included In the Exercise Files  
 and @  
 **GitHub:**   
